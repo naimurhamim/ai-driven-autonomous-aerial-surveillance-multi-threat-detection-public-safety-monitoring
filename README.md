@@ -233,7 +233,7 @@ The work explores the integration of **UAV platforms, edge AI, and deep learning
 
 # Authors
 
-**Md. Naimur Hamim** | **Redwan Bin Jalal** | **Md. Ashiqussalehin**
+**MD Naimur Hamim** | **Redwan Bin Jalal** | **Md. Ashiqussalehin**
 
 Department of IoT and Robotics Engineering  
 University of Frontier Technology  
