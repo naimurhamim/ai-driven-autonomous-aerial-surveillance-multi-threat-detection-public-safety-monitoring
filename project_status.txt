@@ -1,0 +1,10 @@
+Continuing my Drone Surveillance AI project.
+
+Current status:
+- Fire working
+- Accident working
+- Violence working (window-based confirm)
+- Weapon false positive issue
+- Starting Weapon Detection V2 using OD-WeaponDetection dataset
+
+Now I want to continue Weapon Detection V2 training from OD-WeaponDetection dataset.

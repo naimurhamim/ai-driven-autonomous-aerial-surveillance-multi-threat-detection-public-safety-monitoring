@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets
+.env
+Bot_Token.txt
+
+# Datasets
+accident_dataset/
+fire_dataset/
+violence_frames/
+violence_split/
+weapon_dataset/
+weapon_v2_dataset/
+
+# Training outputs / logs
+runs/
+*.log
+
+# Large video/data files
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

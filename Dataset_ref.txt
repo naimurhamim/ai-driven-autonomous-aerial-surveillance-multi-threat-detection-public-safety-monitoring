@@ -1,0 +1,7 @@
+Accident Dataset: https://universe.roboflow.com/accident-test-set/accident-test-set
+
+Fire and smoke dataset: https://github.com/gaia-solutions-on-demand/DFireDataset.git
+
+Violence Dataset: https://www.kaggle.com/datasets/tahasajjad/real-life-violence-dataset
+
+Weapon Dataset: https://github.com/ari-dasci/OD-WeaponDetection
