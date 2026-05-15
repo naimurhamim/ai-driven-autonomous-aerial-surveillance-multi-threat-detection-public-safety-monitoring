@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-purple)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
 ![IoT](https://img.shields.io/badge/IoT-Drone-orange)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
