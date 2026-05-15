@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
+![IoT](https://img.shields.io/badge/IoT-Drone-orange)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
+![ML](https://img.shields.io/badge/ML-TensorFlow%2FPyTorch-red?logo=tensorflow)
+
 # AI-Driven Autonomous Aerial Surveillance System for Real-Time Multi-Threat Detection
 
 An intelligent drone-based surveillance system that uses deep learning and edge computing to automatically detect multiple public safety threats such as **fire, accidents, weapons, and violent activities** in real time.
